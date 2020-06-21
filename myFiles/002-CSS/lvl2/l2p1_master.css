@@ -1,0 +1,22 @@
+h1{
+  font-family:'Arial';
+}
+
+p{
+  font-family: 'Hepta Slab', serif;
+}
+
+body{
+font-size: 20px;
+}
+
+#two{
+  font-size: 1.25em;
+    font-family: 'Barriecito', cursive;
+}
+
+
+
+h1{
+  text-align: center;
+}

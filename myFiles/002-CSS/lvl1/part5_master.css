@@ -1,0 +1,14 @@
+li{
+  color: red;
+}
+
+/* Higher in hierarchy than general call */
+.topitems{
+  color: blue;
+}
+
+/* IDs are next up the list */
+
+#two{
+  border: 3px solid black;
+}

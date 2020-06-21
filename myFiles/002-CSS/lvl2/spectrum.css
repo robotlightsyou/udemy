@@ -1,0 +1,71 @@
+#top{
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 3.0em;
+  text-align: center;
+  background-color: white;
+}
+
+/* p{
+  background-color: #D7A33D;
+  width:30px;
+  height:100px;
+} */
+
+.things{
+  margin: auto;
+  /* background-color: blue; */
+}
+
+table{
+
+}
+th{
+  padding:0% 0% 25% 40%;
+  border: 6px solid white;
+  /* margin-left: 25% */
+
+}
+
+#one{
+  background-color: #D7B641;
+  /* width: 6.667%;
+  height: 30%; */
+}
+#two{
+  background-color: #96BA3D;
+}
+#three{
+  background-color: #6AB45A;
+}
+#four{
+  background-color: #53AF96;
+}
+#five{
+  background-color: #578FA8;
+}
+#six{
+  background-color: #737A9E;
+}
+#seven{
+  background-color: #8A606A;
+}
+#eight{
+  background-color: #BE656B;
+}
+#nine{
+  background-color: #EC6A60;
+}
+#ten{
+  background-color: #EC6C3B;
+  width = 30;
+  height = 100;
+}
+#eleven{
+  background-color: #EC713B;
+}
+#twelve{
+  background-color: #EC793C;
+}
+#thirteen{
+  background-color: #D7A33D;
+}
